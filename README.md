@@ -1,8 +1,10 @@
 # Blood-Glucose-Prediction
 
+Full report could be found in the file: Blood_Glucose_Project_Report.pdf
+
 A simple regression model on the Diabetes Dataset (Data is described and can be downloaded here: https://archive.ics.uci.edu/ml/datasets/diabetes).
 
-We achieve an MAE=30 which very comparable (even better) to to very specific-domain built models [1,2].
+We achieve an MAE=30 which is very comparable (even better sometimes) to to very specific-domain built models [1,2].
 
 # References:
 
